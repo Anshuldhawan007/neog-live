@@ -1,0 +1,31 @@
+body {
+    /* margin-left: 10px;
+    padding: 10 rem; */
+    background-color: #FEF3C7;
+    
+}
+
+.blog-title-heading{
+    margin: 0px 0px;
+}
+.hero-img {
+    /* max-width: 400px; */
+    width: 500px;
+    height: 350px;
+    display: block;
+    margin: auto;
+    outline-style: solid;
+}
+
+.container {
+    padding: 0rem 1rem;
+}
+
+.container-center {
+    max-width: 600px;
+    margin: auto;
+}
+
+.blog-content {
+    padding-left: 2rem;
+}
